@@ -4,7 +4,14 @@ This is the official resources repo for the [100% AI Business challenge](https:/
 
 ## Resources
 
+### Resources: Checklists
 - [Essential AI Agent Capabilities: Checklist](essential-ai-agent-capabilities.md)
+
+### Resources: [Programmatic Domain Registration](https://profitswarm.ai/registering-domain-names-with-ai-programmatically)
+- [DNSimple Wrapper](example-scripts/domains/dnsimple-helper-functions.php)
+- [DNSimple OAuth Token Generator](example-scripts/domains/dnsimple-oauth.php)
+
+### Resources: Web Pages
 - [AI Business Ideas](https://profitswarm.ai/ai-business-ideas/)
 - [AI Business Idea Decision Matrix](https://docs.google.com/spreadsheets/d/1kP32z_cKLIMG0_eDcIUIGseE04nvsdiRJP2eoxJUGxA/edit?gid=1885262534#gid=1885262534)
 
