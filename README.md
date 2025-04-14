@@ -8,14 +8,18 @@ This is the official resources repo for the [100% AI Business challenge](https:/
 - [Essential AI Agent Capabilities: Checklist](essential-ai-agent-capabilities.md)
 
 ### Resources: [Programmatic Domain Registration](https://profitswarm.ai/registering-domain-names-with-ai-programmatically)
-- [DNSimple Wrapper](example-scripts/domains/dnsimple-helper-functions.php)
-- [DNSimple OAuth Token Generator](example-scripts/domains/dnsimple-oauth.php)
+- [DNSimple Wrapper (PHP)](example-scripts/domains/dnsimple-helper-functions.php)
+- [DNSimple OAuth Token Generator (PHP)](example-scripts/domains/dnsimple-oauth.php)
+
+### Resources: [Generating AI Images Locally with Comfy-UI](https://profitswarm.ai/using-a-gaming-pc-as-an-ai-image-generation-machine/)
+- [Batch AI Image Generation - ComfyUI (python)](example-scripts/ai-image-generation/batch_img_gen.py)
 
 ### Resources: Web Pages
 - [AI Business Ideas](https://profitswarm.ai/ai-business-ideas/)
 - [AI Business Idea Decision Matrix](https://docs.google.com/spreadsheets/d/1kP32z_cKLIMG0_eDcIUIGseE04nvsdiRJP2eoxJUGxA/edit?gid=1885262534#gid=1885262534)
 
 ## [AI Tool Reviews](https://profitswarm.ai/category/ai-tool-reviews/):
+- [Lindy AI Review](https://profitswarm.ai/lindy-ai-review/)
 - [Relevance AI Review](https://profitswarm.ai/relevance-ai-review/)
 - [Gumloop AI Review](https://profitswarm.ai/gumloop-review/)
 - [n8n Review](https://profitswarm.ai/n8n-review-workflow-automation-tools/)
