@@ -10,6 +10,7 @@ This is the official resources repo for the [100% AI Business challenge](https:/
 ### Resources: [Programmatic Domain Registration](https://profitswarm.ai/registering-domain-names-with-ai-programmatically)
 - [DNSimple Wrapper (PHP)](example-scripts/domains/dnsimple-helper-functions.php)
 - [DNSimple OAuth Token Generator (PHP)](example-scripts/domains/dnsimple-oauth.php)
+- [Connect Google Analytics to Site (PHP)](example-scripts/connect-google-analytics/connect-google-analytics.php) Blogpost is [here](https://profitswarm.ai/automation-set-up-google-analytics-for-new-site/)
 
 ### Resources: [Generating AI Images Locally with Comfy-UI](https://profitswarm.ai/using-a-gaming-pc-as-an-ai-image-generation-machine/)
 - [Batch AI Image Generation - ComfyUI (python)](example-scripts/ai-image-generation/batch_img_gen.py)
