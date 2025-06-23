@@ -19,10 +19,13 @@ This is the official resources repo for the [100% AI Business challenge](https:/
 - [Batch AI Image Generation - ComfyUI (python)](example-scripts/ai-image-generation/batch_img_gen.py)
 
 ### Resources: Web Pages
+- [AI Automation Worksheet](https://profitswarm.ai/the-ai-automation-worksheet/)
+- [Cloning ChatGPT Locally](https://profitswarm.ai/how-to-run-a-chatgpt-clone-ui-locally/)
 - [AI Business Ideas](https://profitswarm.ai/ai-business-ideas/)
 - [AI Business Idea Decision Matrix](https://docs.google.com/spreadsheets/d/1kP32z_cKLIMG0_eDcIUIGseE04nvsdiRJP2eoxJUGxA/edit?gid=1885262534#gid=1885262534)
 
 ## [AI Tool Reviews](https://profitswarm.ai/category/ai-tool-reviews/):
+- [Make.com Review](https://profitswarm.ai/make-com-review/)
 - [Lindy AI Review](https://profitswarm.ai/lindy-ai-review/)
 - [Relevance AI Review](https://profitswarm.ai/relevance-ai-review/)
 - [Gumloop AI Review](https://profitswarm.ai/gumloop-review/)
@@ -32,3 +35,4 @@ This is the official resources repo for the [100% AI Business challenge](https:/
 - [The 2025 AI Business Challenge](https://profitswarm.ai/the-2025-ai-business-challenge/)
 - [The 2025 AI Business Challenge Blog](https://profitswarm.ai/blog)
 - [Ride-along with the AI biz challenge](https://profitswarm.ai/lets-go/)
+- [An AI Made this Directory](https://profitswarm.ai/an-ai-made-this-directory/)
